@@ -16,7 +16,7 @@ A passionate web developer and designer on a mission to bring creativity and fun
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git,mysql,git,express,mongodb,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git,mysql,node,bootstrap,jquery,express,mongodb,react&perline=3)](https://skillicons.dev)
 
 Linkedin : https://www.linkedin.com/in/nayakramulu/
 
