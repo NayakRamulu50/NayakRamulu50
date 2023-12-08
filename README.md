@@ -18,6 +18,5 @@ A passionate web developer and designer on a mission to bring creativity and fun
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,git,mysql,git,express,mongodb,react&perline=3)](https://skillicons.dev)
 
-[<img align="left" alt="nayakramulu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nayakramulu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]  [linkedin]
 
-<a href="https://github.com/NayakRamulu50" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayakRamulu50&langs_count=10&title_color=facc15&text_color=14b8a6&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
