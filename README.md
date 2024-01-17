@@ -13,6 +13,7 @@ A passionate web developer and designer on a mission to bring creativity and fun
 * 🧠  I'm learning Node.js, React.js, Express.js,
 * 🤝  I'm open to collaborating on build something amazing together!
 * ⚡  Do you know why do programmers prefer dark mode? Because light attracts bugs! 🐛😄
+* 🖥️  See my Resume at [My-Resume](https://www.canva.com/design/DAF6ICMgN7c/OXzZ-sUxqmGMnFoJob8DKg/view?utm_content=DAF6ICMgN7c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Skills
 
